@@ -1,0 +1,21 @@
+name: WsBanCmdItem
+main: WsBanCmdItem\Main
+load: POSTWORLD
+version: 1.0.0
+author: Wshape1
+api: 
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA1
+- 3.0.0-ALPHA2
+- 3.0.0-ALPHA3
+- 3.0.0-ALPHA4
+- 4.0.0
+
+commands:
+ wbanc:
+  description: "WsBanCmdItem禁用命令"
+ wbani:
+  description: "WsBanCmdItem禁用物品"
+ wbana:
+  description: "WsBanCmdItem管理员命令"
